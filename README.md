@@ -1,8 +1,11 @@
 # Local-Marketplace-App-Design
 UI/UX design project for a Local Marketplace App, featuring mobile app screens created in Figma for browsing, ordering, and managing products from local businesses.
 
-Project Overview
+-Figma Design
+View the complete UI/UX design here:
+https://www.figma.com/design/0JDMpo9o9u9kKFgdNVq9Ln/Buy?node-id=964-253&t=IzpiYah7W6zk6sXy-1
 
+Project Overview
 This project represents the complete UI/UX design of a mobile and web-based marketplace platform. It is designed to improve local commerce by providing an easy way for customers to discover nearby stores and for businesses to showcase their products digitally.
 
  Features in Design:
