@@ -24,7 +24,6 @@ This project represents the complete UI/UX design of a mobile and web-based mark
 <img width="200" height="430" alt="Store information-1" src="https://github.com/user-attachments/assets/9ac30260-aa12-4c6c-8d44-cd74d58b1efe" />
 <img width="200" height="430" alt="Store information" src="https://github.com/user-attachments/assets/f6b25284-4986-43de-b70d-38cc10c469a6" />
 <img width="200" height="430" alt="Customer side - Home" src="https://github.com/user-attachments/assets/6f680283-6434-45c8-b505-6ef2f607c02e" />
-<img width="200" height="430" alt="Profile" src="https://github.com/user-attachments/assets/665ce023-3333-4986-9cb7-c9cb6275e504" />
 <img width="200" height="430" alt="Product details" src="https://github.com/user-attachments/assets/32d924f9-3adb-4c9c-8a40-f08fcea3ada2" />
 <img width="200" height="430" alt="Online stores" src="https://github.com/user-attachments/assets/0927faa8-3300-41e9-a4af-e20dab5ccb87" />
 <img width="200" height="430" alt="Online stores - See all-1" src="https://github.com/user-attachments/assets/739af9e0-511d-476c-a7b4-20c4238ef804" />
@@ -38,6 +37,7 @@ This project represents the complete UI/UX design of a mobile and web-based mark
 <img width="200" height="430" alt="Categories" src="https://github.com/user-attachments/assets/e6509308-5d04-44db-be2d-4e5c5015317a" />
 <img width="200" height="430" alt="Cart - empty-1" src="https://github.com/user-attachments/assets/f115ccf1-f7ab-4de8-a588-a475efc015ce" />
 <img width="200" height="430" alt="Cart - empty" src="https://github.com/user-attachments/assets/d08b3820-2828-4b8e-be67-4119f697e21d" />
+<img width="200" height="430" alt="Profile" src="https://github.com/user-attachments/assets/665ce023-3333-4986-9cb7-c9cb6275e504" />
 <img width="200" height="430" alt="Account management" src="https://github.com/user-attachments/assets/00907127-fae2-4d93-a7f8-c7eb40bb0a72" />
 
 
