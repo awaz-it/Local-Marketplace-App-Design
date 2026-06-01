@@ -30,7 +30,7 @@ This project represents the complete UI/UX design of a mobile and web-based mark
 <img width="200" height="430" alt="Online stores - See all-1" src="https://github.com/user-attachments/assets/739af9e0-511d-476c-a7b4-20c4238ef804" />
 <img width="200" height="430" alt="Online stores - See all" src="https://github.com/user-attachments/assets/e7f94968-b801-415a-8eff-26aff7cedb5e" />
 <img width="200" height="430" alt="Online store View-1" src="https://github.com/user-attachments/assets/4a62ff76-b17a-4a74-82a4-348557ba400e" />
-<img width="200" height="430" alt="Online store View" src="https://github.com/user-attachments/assets/202d8634-89fa-4585-b927-a726eb1ecb45" />
+
 <img width="200" height="430" alt="Handcraft" src="https://github.com/user-attachments/assets/70f5bfce-e00e-4355-ad19-ad2da12919dd" />
 <img width="200" height="430" alt="Favorites" src="https://github.com/user-attachments/assets/63203283-5963-45cf-b402-034d9c50e76c" />
 <img width="200" height="430" alt="Favorites - empty" src="https://github.com/user-attachments/assets/8d42c847-bf10-4444-9e7e-d07fe25892af" />
